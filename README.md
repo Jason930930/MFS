@@ -26,7 +26,7 @@
 </head>
 <body>
     <header>
-        <h1>Explore the World of Happiness</h1>
+        <h1>MFS</h1>
     </header>
     <section>
         <h2>Map</h2>
